@@ -1,6 +1,6 @@
 
 {
-  "author": "Flotype",
+  "author": "James Keane",
   "name": "now",
   "description": "NowJS: An easy to use real-time RPC library",
   "version": "0.8.2",
@@ -13,8 +13,8 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "socket.io": ">= 0.8.7",
-    "node-proxy": ">= 0.4.0"
+    "sockjs": "0.3.1",
+    "node-proxy": "0.6.0"
   },
   "devDependencies": {
     "uglify-js": "1.3.3" 
