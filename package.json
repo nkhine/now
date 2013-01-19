@@ -6,15 +6,15 @@
   "version": "0.8.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jameskeane/now.git"
+    "url": "git://github.com/nkhine/now.git"
   },
   "main": "lib/server.js",
   "engines": {
-    "node": ">= v0.4.0"
+    "node": ">= v0.8.8"
   },
   "dependencies": {
     "socket.io": ">= 0.8.7",
-    "node-proxy": ">= 0.4.0"
+    "node-proxy": ">= 0.6.0"
   },
   "devDependencies": {
     "uglify-js": "1.3.3" 
